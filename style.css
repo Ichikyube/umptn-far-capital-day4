@@ -829,7 +829,7 @@ color: #293241;
   margin-left: 8px;
   background: #EAEBEC;
 }
-.active {
+.points .active {
   background: #1C51FD;
 }
 #cta .container {
